@@ -1,0 +1,27 @@
+
+
+.navbar{
+    background-color: rgb(5, 34, 15);
+    display: flex;
+    justify-content: space-between;
+}
+
+.p-nav{
+background-color: aqua;
+}
+
+.carousel-inner{
+    max-height: 500px;
+}
+.cardee{
+    background-color: rgb(122, 10, 10);
+}
+
+.card{
+    background-color: aquamarine;
+    margin-bottom: 20px;
+}
+
+.info{
+    background-color: aqua;
+}
