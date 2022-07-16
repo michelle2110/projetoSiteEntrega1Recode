@@ -163,6 +163,7 @@ body {
     background: rgb(85, 85, 85);
 }
 
+.divisor{border: 2px solid rgb(15, 185, 43); width: 650px;}
 
 
 @media(max-width:800px){
