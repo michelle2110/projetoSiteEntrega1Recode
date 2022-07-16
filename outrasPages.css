@@ -35,6 +35,7 @@ header{
     justify-content: center;
     align-items: center;
 }
+.row{margin: 0px;}
 
 .icone-link{
     width: 15px;
