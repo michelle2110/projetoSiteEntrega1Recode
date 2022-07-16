@@ -72,6 +72,7 @@ header{
     font-weight: 40px ;
     color: white;
     margin: 20px;
+    text-decoration: none;
 }
 .card{
     background-color: rgb(255, 255, 255);
